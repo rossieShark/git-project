@@ -2,4 +2,5 @@ print("Some String")
  func Hello(name name: String) -> String {
  print("Hello /(name)!")
  }
- Hello("Rose")
+ Hello(name: "Dabby")
+ Hello(name: "Roza")
